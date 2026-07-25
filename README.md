@@ -1,5 +1,5 @@
 # DSA-JAVA
-Starting DSA practice in java.
+Starting DSA practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
