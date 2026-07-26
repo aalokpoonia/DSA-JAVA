@@ -6,6 +6,7 @@ Starting DSA practice.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -17,4 +18,8 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
