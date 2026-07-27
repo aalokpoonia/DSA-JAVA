@@ -16,6 +16,7 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -39,4 +40,8 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
