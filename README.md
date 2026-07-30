@@ -24,6 +24,7 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -46,9 +47,11 @@ Starting DSA practice.
 | ------- |
 | [0125-valid-palindrome](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
