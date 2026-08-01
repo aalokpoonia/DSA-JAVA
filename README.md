@@ -21,6 +21,7 @@ Starting DSA practice.
 | [0189-rotate-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Starting DSA practice.
 | [0242-valid-anagram](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
