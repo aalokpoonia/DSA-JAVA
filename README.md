@@ -24,6 +24,7 @@ Starting DSA practice.
 | [0283-move-zeroes](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/aalokpoonia/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Starting DSA practice.
 | [0387-first-unique-character-in-a-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
+| [1768-merge-strings-alternately](https://github.com/aalokpoonia/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
