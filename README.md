@@ -60,6 +60,7 @@ Starting DSA practice.
 | [0344-reverse-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
 ## Queue
 |  |
 | ------- |
@@ -79,4 +81,12 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
