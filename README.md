@@ -13,6 +13,7 @@ Starting DSA practice.
 | [0189-rotate-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,11 +32,13 @@ Starting DSA practice.
 | [0049-group-anagrams](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,6 +47,7 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +95,20 @@ Starting DSA practice.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aalokpoonia/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
